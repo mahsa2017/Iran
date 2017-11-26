@@ -1,5 +1,7 @@
 body{
     font-family: 'Raleway';
+    background-color:rgba(207, 40, 40, 0.829);
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYt9JGbmKOKRshfHKZQbpkxPhE-LODOXmynfDs1jHcqJ6iF_HM");
 }
 
 .smaller-image{Width: 70%;}
@@ -10,7 +12,7 @@ body{
     left: 0px;
     right: 0px; */
     width: 100%;
-    height: 300px;
+    height: 100%;
 }
 
   
@@ -20,10 +22,27 @@ h1 {
   font-family: times;
    }
 
-   
+   footer{
+    display: block;
+	text-align: center;
+   }
 
+.container{
+    opacity:0.8;
+    /* background-image: url("http://latitude48bistro.com/_img/red_bg.jpg"); */
+    color:white;
+    text-align: center;
+}
+.col-md-4 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYt9JGbmKOKRshfHKZQbpkxPhE-LODOXmynfDs1jHcqJ6iF_HM");
+    border-radius: 50%;
+}
 
-
+.btn{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYt9JGbmKOKRshfHKZQbpkxPhE-LODOXmynfDs1jHcqJ6iF_HM");
+    color:white;
+    border-radius:50%;
+}
     /* #one{
     border-style: solid;
     border-color: rgb(223, 223, 235);
