@@ -1,0 +1,27 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.smaller-image{
+                Width: 50%;
+              }  
+  
+h1 {
+  text-align: center;
+  Color: #00ff00;
+  font-family: times;
+   }
+
+
+
+
+    /* #one{
+    border-style: solid;
+    border-color: rgb(223, 223, 235);
+    border-width: 5px;
+    text-align: center;
+    max-height:500px;
+    max-width:1000px;
+    overflow: scroll;
+   } */
