@@ -1,11 +1,18 @@
 body{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
 }
 
+.smaller-image{Width: 70%;}
 
-.smaller-image{
-                Width: 50%;
-              }  
+#banner {
+    position: absolute;
+   /* top: 0px;
+    left: 0px;
+    right: 0px; */
+    width: 100%;
+    height: 300px;
+}
+
   
 h1 {
   text-align: center;
@@ -13,6 +20,7 @@ h1 {
   font-family: times;
    }
 
+   
 
 
 
